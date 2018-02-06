@@ -1,0 +1,26 @@
+{
+  "name": "college",
+  "version": "1.0.0",
+  "description": "~~~bash\r composer require illuminate/database illuminate/events \r ~~~",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polodev/illuminate_database_eloquent_outside_laravel_yt_english.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polodev/illuminate_database_eloquent_outside_laravel_yt_english/issues"
+  },
+  "homepage": "https://github.com/polodev/illuminate_database_eloquent_outside_laravel_yt_english#readme"
+}
