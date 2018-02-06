@@ -1,7 +1,9 @@
 
 # making a website with illuminate database package outside laravel     
 
-visit package on https://packagist.org/packages/illuminate/database page      
+visit package on https://packagist.org/packages/illuminate/database page        
+
+
 
 
 ### installing illuminate/database package  with dependancy   
@@ -175,7 +177,24 @@ Now serve using any server. You can use php mini server like mine.
 php -S localhost:8000     
 ~~~
 
-Here 8000 could be any 4 digit.      
+Here 8000 could be any 4 digit.         
+
+### php echo tag     
+
+~~~html
+<?php $hello = 'hello world' ?>
+
+<?php echo $hello; ?>
+or 
+<?= $hello; ?>
+//will give you 'hello world' 
+~~~
+
+`<?= ?>` is php echo tag.   
+
+
+
+
 
 <hr>
 My name in shibu deb polo       
