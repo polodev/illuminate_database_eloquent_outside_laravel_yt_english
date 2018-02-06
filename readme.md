@@ -39,7 +39,7 @@ $capsule->bootEloquent();
 ~~~
 
 
-### adding db.php file to composer.json file to autolaod and doing `composer dump-autoload` 
+### adding db.php file to composer.json file to autolaod and doing `composer dump-autoload` command 
 
 ~~~php
 "autoload": {
@@ -74,7 +74,7 @@ Manager::schema()->create('subjects', function ($t) {
 
 ~~~
 
-### Create 2 models Subject and Department with relationship        
+### Create 2 models - Subject and Department with relationship        
 
 for 2 tables we have to make 2 models. By convention model name is singular form of table name. 
 
@@ -105,13 +105,13 @@ class Subject extends Model {
 ~~~
 
 
-Relation between 2 models is subject belogs to Department and Department has many subjects. 
+Relation between 2 models is, subject belongs to Department and Department has many subjects. 
 
 ### adding model folder to composer.json file to autolaod all models and doing `composer dump-autoload`  command    
 
 ~~~php
 "autoload": {
-  "classmap": ["models"]
+  "classmap": ["Models"]
 }
 ~~~
 
@@ -174,6 +174,13 @@ php -S localhost:8000
 ~~~
 
 Here 8000 could be any 4 digit.      
+
+<hr>
+
+My name in shibu deb polo       
+Thanks for watching       
+Please subscribe my channel       
+Take care
 
 
 
