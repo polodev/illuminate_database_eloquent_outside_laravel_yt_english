@@ -1,6 +1,8 @@
 
 # making a website with illuminate database package outside laravel     
 
+visit package https://packagist.org/packages/illuminate/database page      
+
 
 ### installing illuminate/database package  with dependancy   
 
@@ -176,7 +178,6 @@ php -S localhost:8000
 Here 8000 could be any 4 digit.      
 
 <hr>
-
 My name in shibu deb polo       
 Thanks for watching       
 Please subscribe my channel       
