@@ -1,7 +1,7 @@
 
 # making a website with illuminate database package outside laravel     
 
-visit package https://packagist.org/packages/illuminate/database page      
+visit package on https://packagist.org/packages/illuminate/database page      
 
 
 ### installing illuminate/database package  with dependancy   
