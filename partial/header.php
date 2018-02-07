@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>demonstration of illuminate/database package and psr2 autoloading in composer</title>
+  <title>demonstration of illuminate/database package and autoloading in composer</title>
   <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
 </head>
 <body>
